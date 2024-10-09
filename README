@@ -1,0 +1,26 @@
+#TFCB-Homework01
+##Problem#5 
+Creating a README file 
+
+###GitHub_tfcb_2024
+https://github.com/FredHutch/tfcb_2024/tree/main
+
+###TFCB-Homework01 github link
+https://github.com/osiasg/tfcb-homework01.git
+
+##Images
+![img](images/casent_0172345_rhytidoponera_metallica.jpg)
+![img](images/casent_0191696__camponotus_darwinii.jpg)
+![img](images/casent_0901788_p_1_high_acanthomyrmex_ferox.jpg)
+![img](images/casent_0906296_p_1_high_cataglyphis_fortis.jpg)
+
+##Species List 
+[file](<get Species_list.py>)
+
+##Dataset
+[dataset](get_dataset.py)
+
+##Main
+[file](main.py)
+
+[file](predict_image.py)
